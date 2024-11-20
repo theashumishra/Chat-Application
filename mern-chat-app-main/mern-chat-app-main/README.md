@@ -23,8 +23,6 @@ password: 1234guest
   - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
